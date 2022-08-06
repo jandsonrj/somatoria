@@ -1,0 +1,34 @@
+body{
+	font-family: 'Bradley Hand' , cursive;
+	color: #DC143C;
+}
+h2{
+	color: #7FFFD4;
+	text-align: center;
+}
+h1{
+	text-align: center;
+	line-height: 5;
+}
+form{
+	font-family: 'Bradley Hand' , monospace;
+	color: #7FFF00;
+	text-align: center;
+}
+input{
+	color: #00BFFF;
+	background: #0001;
+	border-radius: 30px 30px;
+	border-color: #7FFF00;
+	transition: 1.5s;
+}
+footer{
+	font-family: cursive;
+	background: #0010;
+	color: #F0F8FF;
+	padding: 15px;
+	text-align: center;
+	font-weight: 100;
+	letter-spacing: 01px;
+	line-height: 45;
+}
