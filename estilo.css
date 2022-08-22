@@ -1,6 +1,7 @@
 body{
 	font-family: 'Bradley Hand' , cursive;
 	color: #DC143C;
+	overflow: hidden;
 }
 h2{
 	color: #7FFFD4;
